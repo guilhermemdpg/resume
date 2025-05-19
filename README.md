@@ -1,11 +1,11 @@
 # Guilherme Marson D'Paulo Garcia
 
-** Address: São Paulo, SP, Brazil
-** Phone: +55 (11) 97236-0614
-** Email: guimarsondpgarcia@gmail.com
-** GitHub: https://github.com/guilhermemdpg
-** Gitlab: https://gitlab.com/gmdpg98
-** LinkedIn: https://www.linkedin.com/in/guilherme-marson-d-paulo-garcia-b18b241b5
+- Address: São Paulo, SP, Brazil
+- Phone: +55 (11) 97236-0614
+- Email: guimarsondpgarcia@gmail.com
+- GitHub: https://github.com/guilhermemdpg
+- Gitlab: https://gitlab.com/gmdpg98
+- LinkedIn: https://www.linkedin.com/in/guilherme-marson-d-paulo-garcia-b18b241b5
 
 ## Education
 
